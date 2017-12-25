@@ -1,0 +1,2 @@
+# russianAiCup
+RussianAiCup strategy
